@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-equeco-dev-05451-authRole",
+            "UnauthRoleArn": "arn:aws:iam::747441266106:role/amplify-equeco-dev-05451-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::747441266106:role/amplify-equeco-dev-05451-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-equeco-dev-05451-deployment",
+            "UnauthRoleName": "amplify-equeco-dev-05451-unauthRole",
+            "StackName": "amplify-equeco-dev-05451",
+            "StackId": "arn:aws:cloudformation:eu-west-1:747441266106:stack/amplify-equeco-dev-05451/68112610-cae4-11ea-a08d-0a698fadb4d4",
+            "AmplifyAppId": "d2q04p6xk38clm"
+        }
+    }
+}
